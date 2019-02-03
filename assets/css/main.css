@@ -1,11 +1,6 @@
 @import url("font-awesome.min.css");
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:300,600");
 
-/*
-	Cogent by Pixelarity
-	pixelarity.com | hello@pixelarity.com
-	License: pixelarity.com/license
-*/
 
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
@@ -28,7 +23,7 @@ section, summary, time, mark, audio, video {
 }
 
 article, aside, details, figcaption, figure,
-footer, header, hgroup, menu, nav, section {
+footer, , hgroup, menu, nav, section {
 	display: block;}
 
 body {
@@ -2819,7 +2814,7 @@ input, select, textarea {
 	}
 
 		#header h1 {
-			color: #3d424f;
+			color: #000000;
 			font-weight: 600;
 			height: inherit;
 			left: 1.25em;
@@ -2926,13 +2921,13 @@ input, select, textarea {
 		}
 
 			#header.alt h1 {
-				color: #ffffff;
+				color: #000000;
 				top: 1em;
 				left: 2em;
 			}
 
 				#header.alt h1 span {
-					color: #ffffff;
+					color: ##3d424f;
 				}
 
 			#header.alt nav {
@@ -2941,11 +2936,11 @@ input, select, textarea {
 			}
 
 				#header.alt nav a {
-					color: #cfd0d3;
+					color: ##3d424f;
 				}
 
 					#header.alt nav a:active, #header.alt nav a:hover {
-						color: #ffffff;
+						color: #000000;
 					}
 
 			#header.alt input[type="submit"],
@@ -3014,15 +3009,15 @@ input, select, textarea {
 /* Banner */
 
 	#banner {
-		background: #3d424f;
-		color: #ffffff;
+		background: #ffffff;
+		color: #000000;
 		overflow-y: hidden;
 		padding-top: 9.5em;
 		text-align: center;
 	}
 
 		#banner h2 {
-			color: #ffffff;
+			color: #000000;
 			font-size: 2.5em;
 			line-height: 1.25em;
 			margin-bottom: 0.75em;
